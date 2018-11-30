@@ -1,3 +1,47 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/portal",
+            "value": {
+                "facturacion": {}
+            }
+        },
+        {
+            "type": "insertAfterNode",
+            "path": "/models/root",
+            "value": {
+                "flfacturac": {
+                    "lineasfacturascli": null,
+                    "lineasalbaranescli": null,
+                    "albaranescli": null,
+                    "facturasprov": null,
+                    "lineaspedidoscli": null,
+                    "lineaspedidosprov": null,
+                    "fechaejercicio": null,
+                    "albaranesprov": null,
+                    "lineasfacturasprov": null,
+                    "agruparpedidosprov": null,
+                    "lineasivafactprov": null,
+                    "presupuestoscli": null,
+                    "lineasivafactcli": null,
+                    "agruparalbaranescli": null,
+                    "agruparpedidoscli": null,
+                    "facturascli": null,
+                    "plantillasemail": null,
+                    "lineaspresupuestoscli": null,
+                    "facturac_general": null,
+                    "huecos": null,
+                    "facturas_imp": null,
+                    "datosadicionales": null,
+                    "trazadoc": null,
+                    "plantillastextofac": null,
+                    "lineasalbaranesprov": null,
+                    "pedidosprov": null,
+                    "pedidoscli": null,
+                    "agruparalbaranesprov": null
+                }
+            }
+        }
+    ]
 }

@@ -19,6 +19,231 @@
                 "path": "config/"
             }
         ],
-        "addFile": []
+        "addFile": [
+            {
+                "name": "model_flfacturac__lineasfacturascli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasfacturascli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasalbaranescli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasalbaranescli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__albaranescli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__albaranescli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__facturasprov.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__facturasprov_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineaspedidoscli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineaspedidoscli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineaspedidosprov.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineaspedidosprov_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__fechaejercicio.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__fechaejercicio_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__albaranesprov.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__albaranesprov_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasfacturasprov.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasfacturasprov_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__agruparpedidosprov.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__agruparpedidosprov_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasivafactprov.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasivafactprov_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__presupuestoscli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__presupuestoscli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasivafactcli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasivafactcli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__agruparalbaranescli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__agruparalbaranescli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__agruparpedidoscli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__agruparpedidoscli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__facturascli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__facturascli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__plantillasemail.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__plantillasemail_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineaspresupuestoscli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineaspresupuestoscli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__facturac_general.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__facturac_general_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__huecos.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__huecos_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__facturas_imp.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__facturas_imp_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__datosadicionales.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__datosadicionales_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__trazadoc.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__trazadoc_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__plantillastextofac.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__plantillastextofac_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasalbaranesprov.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__lineasalbaranesprov_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__pedidosprov.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__pedidosprov_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__pedidoscli.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__pedidoscli_def.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__agruparalbaranesprov.py",
+                "path": "models/flfacturac/"
+            },
+            {
+                "name": "model_flfacturac__agruparalbaranesprov_def.py",
+                "path": "models/flfacturac/"
+            }
+        ]
     }
 }

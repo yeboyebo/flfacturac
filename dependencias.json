@@ -3,8 +3,16 @@
         {
             "key": "baseparche",
             "version": "v1.0"
+        },
+        {
+            "key": "flfactppal",
+            "version": "v1.0"
+        },
+        {
+            "key": "flfactalma",
+            "version": "v1.0"
         }
     ],
     "fk": "True",
-    "fun_aq": null
+    "fun_aq": "fun_oficial"
 }

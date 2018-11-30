@@ -1,3 +1,34 @@
 {
-    "modifications": []
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/root",
+            "value": {
+                "flfacturac": {
+                    "lineasfacturascli": null,
+                    "lineasalbaranescli": null,
+                    "albaranescli": null,
+                    "facturasprov": null,
+                    "lineaspedidoscli": null,
+                    "lineaspedidosprov": null,
+                    "fechaejercicio": null,
+                    "albaranesprov": null,
+                    "lineasfacturasprov": null,
+                    "agruparpedidosprov": null,
+                    "presupuestoscli": null,
+                    "agruparalbaranescli": null,
+                    "agruparpedidoscli": null,
+                    "facturascli": null,
+                    "plantillasemail": null,
+                    "lineaspresupuestoscli": null,
+                    "datosadicionales": null,
+                    "trazadoc": null,
+                    "lineasalbaranesprov": null,
+                    "pedidosprov": null,
+                    "pedidoscli": null,
+                    "agruparalbaranesprov": null
+                }
+            }
+        }
+    ]
 }

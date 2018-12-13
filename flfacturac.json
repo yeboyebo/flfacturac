@@ -243,6 +243,106 @@
             {
                 "name": "model_flfacturac__agruparalbaranesprov_def.py",
                 "path": "models/flfacturac/"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/",
+                "name": "app_facturacion__menu_facturacion.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__pedidoscli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__masterpedidosprov.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__presupuestoscli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__masteralbaranescli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__albaranescli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__masterpresupuestoscli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__newrecordalbaranescli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__newrecordlineasalbaranescli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__newrecordpedidosprov.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__newrecordpresupuestoscli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__newrecordlineaspresupuestoscli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__lineaspresupuestoscli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__lineaspedidoscli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__newrecordpedidoscli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__masterfacturascli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__newrecordlineaspedidosprov.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__newrecordlineaspedidoscli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__facturascli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__newrecordfacturascli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__lineasalbaranescli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__masterpedidoscli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__newrecordlineasfacturascli.json"
+            },
+            {
+                "path": "apps/facturacion/templates/facturacion/plantillas/",
+                "name": "app_facturacion__pedidosprov.json"
+            },
+            {
+                "path": "apps/facturacion/viewset/",
+                "name": "app_facturacion__views_facturacion.py"
             }
         ]
     }

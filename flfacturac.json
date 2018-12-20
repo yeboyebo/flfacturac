@@ -335,6 +335,10 @@
             {
                 "path": "apps/facturacion/viewset/",
                 "name": "app_facturacion__views_facturacion.py"
+            },
+            {
+                "path": "models/flfacturac/",
+                "name": "model_flfacturac__flfacturac_def.py"
             }
         ]
     }

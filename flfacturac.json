@@ -149,14 +149,6 @@
                 "path": "models/flfacturac/"
             },
             {
-                "name": "model_flfacturac__plantillasemail.py",
-                "path": "models/flfacturac/"
-            },
-            {
-                "name": "model_flfacturac__plantillasemail_def.py",
-                "path": "models/flfacturac/"
-            },
-            {
                 "name": "model_flfacturac__lineaspresupuestoscli.py",
                 "path": "models/flfacturac/"
             },

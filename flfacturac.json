@@ -21,6 +21,10 @@
         ],
         "addFile": [
             {
+                "name": "app_facturacion____init__.py",
+                "path": "apps/facturacion/"
+            },
+            {
                 "name": "model_flfacturac__lineasfacturascli.py",
                 "path": "models/flfacturac/"
             },

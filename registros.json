@@ -25,7 +25,8 @@
                     "lineasalbaranesprov": null,
                     "pedidosprov": null,
                     "pedidoscli": null,
-                    "agruparalbaranesprov": null
+                    "agruparalbaranesprov": null,
+                    "facturac_modelos": null
                 }
             }
         }
